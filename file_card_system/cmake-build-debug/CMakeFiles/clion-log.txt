@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja "/Users/lukasmuller/Library/Mobile Documents/com~apple~CloudDocs/DHBW/2. Semester/Algorithmen Labor /file_card_system"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/lukasmuller/Library/Mobile Documents/com~apple~CloudDocs/DHBW/2. Semester/Algorithmen Labor /file_card_system/cmake-build-debug

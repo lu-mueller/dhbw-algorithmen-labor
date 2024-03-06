@@ -1,0 +1,3 @@
+/Users/lukasmuller/Library/Mobile Documents/com~apple~CloudDocs/DHBW/2. Semester/Algorithmen Labor /file_card_system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lukasmuller/Library/Mobile Documents/com~apple~CloudDocs/DHBW/2. Semester/Algorithmen Labor /file_card_system/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lukasmuller/Library/Mobile Documents/com~apple~CloudDocs/DHBW/2. Semester/Algorithmen Labor /file_card_system/cmake-build-debug/CMakeFiles/file_card_system.dir
